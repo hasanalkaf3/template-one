@@ -4,7 +4,7 @@
   --secondary-color: #2c4755;
   --section-padding: 60px;
   --section-background: #f6f6f6;
-  --paragraph-color: #777;
+  --paragraph-color: #515151;
   --paragraph-height: 1.8;
   --margin-content-top: 100px;
   --main-duration: 0.3s;
@@ -156,7 +156,7 @@ body {
 /* ---------- End Header ---------- */
 /* ---------- Start Landing Section ---------- */
 .landing {
-  background-image: url(../images/black_and_white_mountain.jpg);
+  background-image: url(../images/black_and_white_mountain.avif);
   background-size: cover;
   height: calc(100vh - 64px);
   position: relative;
@@ -421,7 +421,7 @@ body {
 #contact .info .link {
   font-size: 35px;
   text-decoration: none;
-  color: var(--main-color);
+  color: #0b9e8f;
   font-weight: 800;
 }
 @media (max-width: 767px) {
